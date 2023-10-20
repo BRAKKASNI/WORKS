@@ -1,0 +1,13 @@
+    /*Estamos en el supermercado pedir 5 nombres y los articulos que ha comprado cada uno. Cada cliente solo puede comprar 3 cosas.
+    Solo hay 7 articulos y son los siguientes:
+    Pan 1,25€
+    Aceite a 8€ 
+    Patatas 2,30€
+    aceituna a 3,5€
+    Nestea a 1,80€
+    whiskey a 14,90€
+    Hielo a 3,50€
+    Tenemos que crear una funcion cuyo cometido es mostrar la bolsa de la compra de 1 cliente y el precio total de la compra.ADEMAS EN OTRA FUNCION, 
+    vamos a calcular el IVA y lo devolvemos
+    mostrar el 21% del iva y sacar el precio total de la factura(con iva)
+    */
